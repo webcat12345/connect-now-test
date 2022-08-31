@@ -30,5 +30,3 @@ Design implementation, functional implementation along with the mobile responsiv
 * General code quality is supported by the [Prettier](https://prettier.io) and also IDE configuration. (If you use VS Code, you need to install prettier plugin on your editor.)
 * Typescript - Defined all types and models using the typescript to make sure developer is following the best practice and modern cookbooks.
 * Using different method of handling asynchronous actions using promise/rxjs and so on, used different methods in different places to show you cases.
-* 
-
