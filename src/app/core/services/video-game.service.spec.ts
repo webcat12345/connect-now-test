@@ -15,7 +15,7 @@ describe('VideoGameService', () => {
     expect(service).toBeTruthy();
   });
 
-  describe('getVideoGames', () => {
+  describe('#getVideoGames', () => {
     it('makes expected calls', () => {
       const httpTestingController = TestBed.inject(HttpTestingController);
       service.getVideoGames().subscribe(res => {
